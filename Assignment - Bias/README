@@ -1,0 +1,7 @@
+This program creates generates 100 datasets from a known funcion 𝑓 (𝑥) = 2 cos 2.8𝑥 + 7.5 with added noise
+following normal distribution 𝒩 0, 1 . For each dataset, use the same 20 instances with
+𝑥 ∈ [0, 5] following uniform distribution. For each of 100 datasets, perform polynomial fits
+of order 1, 2, 3, 4, and 5. (a) Plot only the first five polynomial fits (using solid line) for
+each polynomial order and the average of the 100 fits (using dotted line), you do not
+have to show the 20 sample points. Plot the five polynomial fits of each order in a
+separate figure.
